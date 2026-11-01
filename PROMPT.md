@@ -72,15 +72,17 @@ Do not call 5.17m or 5.28m her personal best: they are marks from specific natio
 
 Use the reference's sharp editorial language: oversized condensed headings, compact technical labels, asymmetric rails, corner brackets, stepped photograph plates, subtle grids, fine rules, and generous negative space. Avoid turning the page into a wall of identical rounded cards.
 
-Palette:
-- Ink: `#090E17`
-- Deep blue: `#102A43`
-- Paper: `#F7FAFB`
-- Primary accent: `#28D6A1`
-- Secondary cool accent: `#8FD8F8`
-- Muted light text: `#AFBCC9`
+Palette (owner update: use Xavier's current xcp.org website colors):
+- Dark navy: `#083350`
+- Navy: `#0e5586`
+- Blue: `#518db7`
+- Gold: `#e7b744`
+- White: `#ffffff`
+- Supporting neutral: `#dadada`
 
-This palette is an athlete-site design choice, not a claim to reproduce official school brand standards. Use ink text on bright green buttons; verify contrast on every surface.
+Source: https://bbk12e1-cdn.myschoolcdn.com/ftpimages/845/SiteStyle/1730/SiteStyle134081358080263650.css . These are the current website's named color tokens. Replace previous green accent directions with gold and dark surfaces with Xavier navy. Use navy text on gold buttons.
+
+Identity mark: the L and the 7 must be the exact same geometric shape. Define one SVG path, reuse it unchanged, and rotate the second instance 180 degrees to read as 7. Separate them with a slim slash. Do not use two unrelated font characters.
 
 Typography: Oswald 500/600/700 for display; Space Grotesk 400/500/600 for body and metadata. Include good system fallbacks. Main name approximately 96–160px on large desktops, fluid with `clamp()`, approximately 56–80px on phones as space allows. Body text at least 16px; essential metadata at least 12–14px. Do not scale the root font down to fit a desktop canvas.
 

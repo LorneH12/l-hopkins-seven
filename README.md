@@ -39,3 +39,7 @@ No generated likeness, altered uniform, helmet, race-car assets, or unapproved m
 ## Interaction
 
 Native scrolling; a single event-driven animation loop for a small photo spring, desktop section recession, and timeline progress. Lightweight once-only text entrances use the browser animation API. The loop sleeps when settled and pauses while the document is hidden. Reduced motion removes parallax, entrances, and the sticky stack. The native modal menu supplies keyboard trapping and Escape behavior; closing it restores focus. The video loads on demand, never autoplays sound, and pauses when out of view.
+
+## Xavier palette and identity update
+
+The palette uses the named tokens in [Xavier's official website stylesheet](https://bbk12e1-cdn.myschoolcdn.com/ftpimages/845/SiteStyle/1730/SiteStyle134081358080263650.css): blue #518db7, navy #0e5586, dark navy #083350, gold #e7b744, white #ffffff. The L/7 identity uses one SVG path twice; the second instance is rotated 180 degrees. The favicon uses the same geometry.
