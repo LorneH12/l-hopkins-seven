@@ -34,3 +34,8 @@ Checked in Chromium on Windows, November 1, 2026. Editorial data remains dated O
 - Source destinations were carried from the researched brief; this build did not independently re-adjudicate every historical result or confirm every external site's availability.
 - No real-device touch test, screen-reader session, or exhaustive accessibility certification was performed.
 - GitHub Pages was enabled after the owner approved public publication. No form delivery, analytics, or backend is configured.
+
+## Responsive update — October 31, 2026
+
+Checked 320, 390, 667, 768, 1024, 1280, 1440, 1920, and 2560px widths, including landscape and short-height layouts. No page-level horizontal overflow. Added a distinct tablet grid that separates the heading from the photograph, a compact short-screen desktop hero, and an 1800px maximum hero width. Phone images scale with viewport width. Layout changes use CSS media queries and apply immediately on resize or orientation change.
+
