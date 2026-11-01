@@ -33,4 +33,4 @@ Checked in Chromium on Windows, November 1, 2026. Editorial data remains dated O
 - External fonts and media depend on their existing hosts. The files are referenced rather than duplicated in this repository.
 - Source destinations were carried from the researched brief; this build did not independently re-adjudicate every historical result or confirm every external site's availability.
 - No real-device touch test, screen-reader session, or exhaustive accessibility certification was performed.
-- No GitHub Pages deployment, form delivery, analytics, or backend is configured.
+- GitHub Pages was enabled after the owner approved public publication. No form delivery, analytics, or backend is configured.

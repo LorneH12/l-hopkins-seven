@@ -6,7 +6,7 @@ A cinematic athlete profile for L Hopkins: track, long jump, Xavier flag footbal
 
 Open `index.html` in a modern browser. No install, framework, build step, backend, or WebGL support is required. The complete interface, styles, and interaction code are in that file. Google Fonts and the approved photos/video load remotely, so an internet connection is needed for those assets. System fonts and readable content remain if assets fail.
 
-This repository was created as a private review build. GitHub Pages has not been enabled. Existing L Hopkins sites were not modified.
+Live site: https://lorneh12.github.io/l-hopkins-seven/ . Published through GitHub Pages from main / root. The owner approved making the repository public. Existing L Hopkins sites were not modified.
 
 ## Files
 
